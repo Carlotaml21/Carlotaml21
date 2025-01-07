@@ -1,4 +1,4 @@
-# Take a dive into my GitHub 🐰👋🐰
+# Take a dive into my GitHub 👋🐰
 
 ## About Me  
 Hello! My name is **Carlota Menéndez**. I'm diving into the fascinating world of programming, and I'm really excited to learn and grow every day in this field. I enjoy exploring new technologies and facing challenges that help me improve my skills. I am also passionate about **education**, and I hope to use my programming knowledge in future projects that bridge both worlds: technology and teaching.
